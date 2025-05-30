@@ -1,24 +1,26 @@
-1. a) on android, get [termux](https://github.com/termux/termux-app/releases/latest), either universal apk or specific to your device architecture. then connect to data/wifi, install and open termux, then run:
+(1)
+
+A. on android, get [termux](https://github.com/termux/termux-app/releases/latest), either universal apk or specific to your device architecture. then connect to data/wifi, install and open termux, then run:
 ```
 pkg update
 pkg upgrade -y
 termux-setup-storage
 ```
-   b) on linux (debian or debian based), just have a usable terminal and have your packages somewhat updated
+B. on linux (debian or debian based), just have a usable terminal and have your packages somewhat updated
    
-   c) on wsl (windows), idk just have a download folder ig and update your packages
+C. on wsl (windows), idk just have a download folder ig and update your packages
 
-2. install dependencies:
+(2) install dependencies:
 ```
 apt install curl grep imagemagick sed mktemp
 ```
 run with sudo if needed
 
-3. get script (latest version):
+(3) get script (latest version):
 ```
 curl -o getabp.sh https://raw.githubusercontent.com/AkemiFurukawa91/Time-Machine-Sussy-Baka-Script/main/timemachine.sh
 ```
-4. run script:
+(4) run script:
 ```
 bash getabp.sh DD-MM-YYYY
 ```
