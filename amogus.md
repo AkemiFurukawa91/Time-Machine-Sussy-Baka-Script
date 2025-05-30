@@ -7,6 +7,7 @@ pkg upgrade -y
 termux-setup-storage
 ```
 give storage permission if prompted
+
 B. on linux (debian or debian based), just have a usable terminal and have your packages somewhat updated
    
 C. on wsl (windows), idk just have a download folder ig and update your packages
