@@ -1,4 +1,4 @@
-(1)
+(1) initial setup:
 
 A. on android, get [termux](https://github.com/termux/termux-app/releases/latest), either universal apk or specific to your device architecture. then connect to data/wifi, install and open termux, then run:
 ```
