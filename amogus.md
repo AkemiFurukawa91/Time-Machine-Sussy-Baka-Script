@@ -14,7 +14,7 @@ D. on macos, pray that apple doesn't screw with this.
 
 (2) install dependencies:
 ```
-apt install curl grep imagemagick sed mktemp
+apt install curl grep imagemagick sed coreutils
 ```
 run with sudo if needed
 
