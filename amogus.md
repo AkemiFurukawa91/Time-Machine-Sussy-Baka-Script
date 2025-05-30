@@ -5,6 +5,7 @@ pkg upgrade -y
 termux-setup-storage
 ```
    b) on linux (debian or debian based), just have a usable terminal and have your packages somewhat updated
+   
    c) on wsl (windows), idk just have a download folder ig and update your packages
 
 2. install dependencies:
