@@ -10,6 +10,8 @@ B. on linux (debian or debian based), just have a usable terminal and have your 
    
 C. on wsl (windows), idk just have a download folder ig and update your packages
 
+D. on macos, pray that apple doesn't screw with this.
+
 (2) install dependencies:
 ```
 apt install curl grep imagemagick sed mktemp
